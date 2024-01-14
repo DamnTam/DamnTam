@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I love to Develop Mobile Applications**
 
-  <h3 align="left">Skills I have:</h3>
+  <h1 align="left">Skills I have:</h1>
 
     <h2>Languages:</h2>
     <ul>
