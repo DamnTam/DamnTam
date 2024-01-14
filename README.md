@@ -31,7 +31,7 @@
 
     <h2>VCS:</h2>
     <ul>
-        <li>GitL</li>
+        <li>Git</li>
     </ul>
 
 
