@@ -15,6 +15,46 @@
 
 - ⚡ Fun fact **I love to Develop Mobile Applications**
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Skills</title>
+</head>
+<body>
+
+    <h2>Languages:</h2>
+    <ul>
+        <li>C</li>
+        <li>Dart</li>
+    </ul>
+
+    <h2>Frameworks:</h2>
+    <ul>
+        <li>Flutter</li>
+    </ul>
+
+    <h2>Database:</h2>
+    <ul>
+        <li>MySQL</li>
+        <li>SQL Server</li>
+        <li>SQLite</li>
+        <li>PostgreSQL</li>
+    </ul>
+
+    <h2>Other Skills:</h2>
+    <ul>
+        <li>Strong knowledge in RESTful web-services/API</li>
+        <li>Good problem-solving skills</li>
+        <li>Proficient in Adobe XD & Figma for UI/UX</li>
+        <li>Proper knowledge of GitHub</li>
+    </ul>
+
+</body>
+</html>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanvir moon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir moon" height="30" width="40" /></a>
