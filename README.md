@@ -15,18 +15,12 @@
 
 - ⚡ Fun fact **I love to Develop Mobile Applications**
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Skills</title>
-</head>
-<body>
+  <h3 align="left">Skills I have:</h3>
 
     <h2>Languages:</h2>
     <ul>
         <li>C</li>
+        <li>C++</li>
         <li>Dart</li>
     </ul>
 
@@ -35,24 +29,11 @@
         <li>Flutter</li>
     </ul>
 
-    <h2>Database:</h2>
+    <h2>VCS:</h2>
     <ul>
-        <li>MySQL</li>
-        <li>SQL Server</li>
-        <li>SQLite</li>
-        <li>PostgreSQL</li>
+        <li>GitL</li>
     </ul>
 
-    <h2>Other Skills:</h2>
-    <ul>
-        <li>Strong knowledge in RESTful web-services/API</li>
-        <li>Good problem-solving skills</li>
-        <li>Proficient in Adobe XD & Figma for UI/UX</li>
-        <li>Proper knowledge of GitHub</li>
-    </ul>
-
-</body>
-</html>
 
 
 <h3 align="left">Connect with me:</h3>
