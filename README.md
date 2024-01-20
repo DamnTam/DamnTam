@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed Moon</h1>
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhrcGpkc2dkdDV3a2FwYTZiYmJvazFwcW12amQzaW1jcTNuYjE5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated GIF" width="400" align="right">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhrcGpkc2dkdDV3a2FwYTZiYmJvazFwcW12amQzaW1jcTNuYjE5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated GIF" width="350" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damntam&label=Profile%20views&color=0e75b6&style=flat" alt="damntam" /> </p>
 
